@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xe2646cB7ef0443a41b0a7A6d9F542BDe2503d973",
+  "SCAN_LINK": "https://polygonscan.com/token/0xfd18418c4aef8edcaff3efea4a4be2cc1cf2e580",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Newsies",
+  "SYMBOL": "NEWSIE",
+  "MAX_SUPPLY": 1000000,
+  "WEI_COST": 11000000000000000000,
+  "DISPLAY_COST": 11,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gmn-newsies",
+  "SHOW_BACKGROUND": true
+}
